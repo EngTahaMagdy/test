@@ -1,0 +1,19 @@
+
+#services
+{
+    background-color: orange;
+    height: 700px;
+    color: #fff;
+    width: 2px;
+    height: 2px;
+}
+#services h1
+{
+    padding: 50px 0px;
+    display: none;
+}
+.item 
+{
+    display: none;
+}
+
